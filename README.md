@@ -1,5 +1,5 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<h2 align="center">Hi, I'm Ahmed Barakat 👋</h2>
+<h1 align="center">Hi, I'm Ahmed Barakat 👋</h1>
 
 #### 🚀 Software Engineer | Back-End Developer | Competitive Programmer
 
