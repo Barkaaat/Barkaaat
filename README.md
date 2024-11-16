@@ -56,8 +56,16 @@ I specialize in **computer science fundamentals**, **web development**, and **pr
   <a href="https://nodejs.org/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" width="60px" title="NodeJs"> 
   <a href="https://expressjs.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="ExpressJS" width="60px" title="ExpressJS"> 
   <a href="https://www.mysql.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySql" width="60px" title="MySql"> 
+	<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60px" title="MongoDB"> 
+<!-- 	<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSql" width="60px" title="PostgreSql">  -->
   <a href="https://isocpp.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="60px" title="C++"> 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#" width="60px" title="C#"> 
   <a href="https://git-scm.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="60px" title="Git">
   <a href="https://github.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="60px" title="GitHub"> 
+</p>
+
+<br>
+
+<p align="center">
+  <img align="center" hight="80px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Barkaaat&show_icons=true&locale=en&layout=compact&langs_count=8&card_width=380" alt="Barkaaat">
 </p>
