@@ -19,7 +19,7 @@ I specialize in **computer science fundamentals**, **web development**, and **pr
     
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `CodeChef`, `Google Contests`.
   
-- :thinking: This is [`MY RESUME`](https://drive.google.com/file/d/14pnBuW53ZpHyq_gq1pBMg3rxIDWOLvaH/view?usp=sharing).
+- :thinking: This is [`MY RESUME`](https://drive.google.com/file/d/1WaF7LYOqB_uWqaxJXR_Iw6bujDFRUG1W/view?usp=sharing).
   
 - :nerd_face: Always `learning new things`.
 
