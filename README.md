@@ -15,11 +15,11 @@ I specialize in **computer science fundamentals**, **web development**, and **pr
 
 - :school: I am a `CS Student`.
   
-- :trophy: `ECPC` Finalist.
+- :trophy: 2x `ECPC` Finalist.
     
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `CodeChef`, `Google Contests`.
   
-- :thinking: This is [`MY RESUME`](https://drive.google.com/file/d/1GVWO3DeIyyF-D9M2BXdR9cZ1WCgbwpZV/view?usp=sharing).
+- :thinking: This is [`MY RESUME`](https://drive.google.com/file/d/1J1N0UPSs2BPlBRuk3IvwvLWbNDqTg8uC/view?usp=sharing).
   
 - :nerd_face: Always `learning new things`.
 
