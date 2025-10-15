@@ -1,9 +1,12 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <h1 align="center">Hi, I'm Ahmed Barakat 👋</h1>
 
-#### 🚀 Software Engineer | Back-End Developer | Competitive Programmer
-
-I specialize in **computer science fundamentals**, **web development**, and **problem-solving**. Currently, I'm studying **computer science** in the last year.
+### 🚀 Software Engineer | Back-End Developer | Competitive Programmer
+<p align="center">
+	Fresh Computer Science graduate with strong foundations in software engineering, backend development and problem-solving.
+	Competitive programmer with 4000+ problems solved on different online judges, Expert on Codeforces, Guardian on LeetCode, and 2x ECPC Finalist.
+	Passionate about building impactful systems and continuously learning new technologies.
+</p>
 
 <br>
 
