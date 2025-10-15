@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Ahmed Barakat 👋</h1>
 
 ### 🚀 Software Engineer | Back-End Developer | Competitive Programmer
-<p align="center">
+<p align="left">
 	Fresh Computer Science graduate with strong foundations in software engineering, backend development and problem-solving.
 	Competitive programmer with 4000+ problems solved on different online judges, Expert on Codeforces, Guardian on LeetCode, and 2x ECPC Finalist.
 	Passionate about building impactful systems and continuously learning new technologies.
