@@ -16,7 +16,7 @@
 
 <br>
 
-- :school: I am a `CS Student`.
+- :school: I am a `CS Fresh Graduate`.
   
 - :trophy: 2x `ECPC` Finalist.
     
