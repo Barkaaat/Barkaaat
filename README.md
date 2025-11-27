@@ -22,7 +22,7 @@
     
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `CodeChef`, `Google Contests`.
   
-- :thinking: This is [`MY RESUME`](https://drive.google.com/file/d/1xngglTIvK_xV9wwnqY108ZINe9h8ayqK/view?usp=sharing).
+- :thinking: This is [`MY RESUME`](https://drive.google.com/file/d/1aOatR5TRY5lX9frvdVLqaA7Td6PGrNnz/view?usp=sharing).
   
 - :nerd_face: Always `learning new things`.
 
